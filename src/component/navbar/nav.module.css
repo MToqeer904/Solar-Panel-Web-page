@@ -1,0 +1,10 @@
+.list {
+  color: #8a8888;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 81.02%;
+}
+.my_link:hover {
+  color: #86be3f;
+}

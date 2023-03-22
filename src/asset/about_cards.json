@@ -1,0 +1,22 @@
+{
+  "cards_dummy_data": [
+    {
+      "img": "images/aboutCard/crd1.png",
+      "percent": "110%",
+      "message": "Superbonus"
+    },
+    {
+      "img": "images/aboutCard/crd2.png",
+      "percent": "65%",
+      "message": "Detrazione DOMTICA"
+    },
+    {
+      "img": "images/aboutCard/crd3.png",
+      "message": "Progettazione personalizzata"
+    },
+    {
+      "img": "images/aboutCard/crd4.png",
+      "message": "consulenza fiscale sui bonus"
+    }
+  ]
+}

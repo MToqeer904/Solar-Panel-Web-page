@@ -1,0 +1,23 @@
+.hr_line {
+  width: 10%;
+  border: 3px solid #86be3f;
+  border-radius: 20px;
+  margin-top: 0%;
+  opacity: 1;
+}
+.hr_div {
+  display: flex;
+  justify-content: center;
+}
+.about_Us_para {
+  width: 80%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 155.02%;
+  text-align: center;
+}
+.about_Us_para_div {
+  display: flex;
+  justify-content: center;
+}

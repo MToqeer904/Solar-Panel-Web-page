@@ -1,0 +1,43 @@
+.qoutes {
+  width: 42px;
+  height: 73px;
+  display: inline-block;
+  color: #9a9a9a;
+  left: calc(50% - 42px / 2 - 427px);
+  top: 1519px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 100%;
+}
+.qoutes_div {
+  display: flex;
+  justify-content: center;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: 40px;
+}
+.para {
+  width: 60%;
+  text-align: center;
+}
+.hr_line {
+  width: 10px;
+  color: #86be3f;
+  text-align: center;
+}
+.hr_div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.hr_para {
+  color: #86be3f;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 91.02%;
+}

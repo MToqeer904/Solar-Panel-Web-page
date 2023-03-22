@@ -1,0 +1,19 @@
+.card_size {
+  width: 349.06px;
+  height: 372.51px;
+  left: 163px;
+  top: 3326.6px;
+  background: #ffffff;
+  box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  transition: 0.7s ease-in-out;
+}
+.card_size:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.2);
+}
+@media (max-width: 576px) {
+  .d-sm-flex {
+    margin-bottom: 20px;
+  }
+}

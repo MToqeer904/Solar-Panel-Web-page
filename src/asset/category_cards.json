@@ -1,0 +1,53 @@
+{
+  "category_cards_data": [
+    {
+      "img": "images/categoryCard/categoryImg1.png",
+      "name": "S.I.R.E Direct",
+      "vectorImg": "images/categoryCard/vectorIcon.png",
+      "points": [
+        "Sistema Plugin",
+        "Struttura meccanizzata in poliuera e sensoristica intelligente",
+        "Pannelli alta efficienza da 1KW",
+        "Inverter e conne ssione aII'impianto domestico",
+        "App di controllo e gesti one"
+      ],
+      "icon_heading": "CONSIGLIATO PER:",
+      "icon_Img1": "images/categoryCard/icon1.png",
+      "icon1_name": "Device",
+      "icon_Img2": "images/categoryCard/icon2.png",
+      "icon2_name": "Families",
+      "li_Items": [
+        "Scopri le caratteristiche tecniche",
+        "Te mpo di ricarica medio in estate",
+        "TBD Tempo di scarica a 16A.",
+        "TBD Autonomia dalla rete elettrica.",
+        "TBD Autonomia in casa di blackout.",
+        "2gg Immissione di CO2 da 1.022 kg a SOO kg annui",
+        "Te mpo di ricarica medio in estate."
+      ]
+    },
+    {
+      "img": "images/categoryCard/categoryImg2.png",
+      "name": "S.I.R.E Full",
+      "vectorImg": "images/categoryCard/vectorIcon.png",
+      "points": [
+        "Struttura meccanizzata in poliuera e sensoristica intelligente",
+        "Pannelli alta efficienza da 1KW",
+        "Inverter e conne ssione aII'impianto domestico",
+        "App di controllo e gesti one"
+      ],
+      "icon_heading": "CONSIGLIATO PER:",
+      "icon_Img1": "images/categoryCard/icon1.png",
+      "icon1_name": "Device",
+      "icon_Img2": "images/categoryCard/icon2.png",
+      "icon2_name": "Families",
+      "li_Items": [
+        "Title here if they have othervise remove this",
+        "Siste ma 2 kW con accumuIo.",
+        "Tempo di ricarica medio in estate is 5 ore e 30 minuti",
+        "Te mpo di scarica a 16A is 8 ore.",
+        "Autonomia dalla rete eIettrica 62Po."
+      ]
+    }
+  ]
+}

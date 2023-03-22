@@ -1,0 +1,32 @@
+.header {
+  height: 70px;
+}
+
+.header_icon {
+  width: 15px;
+  height: 15px;
+}
+.header_logo {
+  width: 92px;
+  height: 44px;
+}
+.header_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #8a8888;
+}
+.header_btn {
+  background-color: #86be3f;
+  color: white;
+  border: none;
+  border-radius: 9px;
+  width: 129px;
+  height: 41px;
+}
+@media (max-width: 576px) {
+  .header {
+    height: 150px;
+  }
+}

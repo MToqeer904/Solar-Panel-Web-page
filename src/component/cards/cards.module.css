@@ -1,0 +1,24 @@
+.main_div {
+  background-color: #f9f9f9;
+  height: 207.87px;
+  margin-top: 50px;
+}
+
+.s_cards {
+  width: 255px;
+  height: 147.9px;
+  left: 163.12px;
+  top: 3780px;
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12);
+  border-radius: 6px;
+}
+@media (max-width: 576px) {
+  .main_div {
+    height: auto;
+  }
+  .s_cards {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,30 @@
+.div_head {
+  position: relative;
+  height: 277px;
+  background-color: #efefef;
+  width: 350px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.my_image {
+  position: absolute;
+  bottom: 200px;
+  left: 25%;
+}
+.para {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 30px;
+}
+@media (max-width: 576px) {
+  .para {
+    display: flex;
+    flex-direction: column;
+  }
+  .div_head {
+    margin-top: 100px;
+  }
+}

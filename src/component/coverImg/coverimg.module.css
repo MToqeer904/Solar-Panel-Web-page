@@ -1,0 +1,43 @@
+.img {
+  width: 100%;
+  height: auto;
+}
+.img_heading {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 87.52%;
+}
+.img_para {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 141.02%;
+}
+.cover_img {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cover_text {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 70%;
+  color: white;
+}
+@media (max-width: 576px) {
+  .img_heading {
+    font-weight: 300;
+    font-size: 24px;
+  }
+  .img_para {
+    font-weight: 100;
+    font-size: 10px;
+  }
+  .cover_img {
+  }
+}
